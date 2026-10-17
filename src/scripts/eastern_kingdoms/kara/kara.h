@@ -1,0 +1,15 @@
+#ifndef KARA_H
+#define KARA_H
+
+#include "scriptPCH.h"
+
+enum
+{
+    NPC_CRYPT_CARETAKER = 1000025,
+    NPC_CRYPT_MAGUS = 1000035,
+    NPC_CRYPT_ACOLYTE = 1000036,
+    NPC_DROWNED_SPIRIT = 1000037,
+    NPC_CONDEMNED_SHADE = 1000039
+};
+
+#endif
